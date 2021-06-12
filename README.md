@@ -3,5 +3,5 @@ It is a DBpedia project in ***Google Summer of Code 2021***. I will work for cau
 
 
 
-# template
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
+# Resources
+Template that i used here: Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
