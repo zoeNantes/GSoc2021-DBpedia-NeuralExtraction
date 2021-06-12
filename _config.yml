@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
+title: GSoc2021-DBpedia-NeuralExtraction2
+url: "https://zoenantes.github.io/GSoc2021-DBpedia-NeuralExtraction2/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product documentation template for Jekyll.
+description: The weekly blog for this project
 author:
-  name:
-  email:
+  name: Ziwei XU
+  email: xuxiaowei0203@gmail.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: GSoc2021
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - https://github.com/dbpedia/neural-extraction-framework
 
 # -----
 # Build
