@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: GSoc2021-DBpedia-NeuralExtraction2
-url: "https://zoenantes.github.io/GSoc2021-DBpedia-NeuralExtraction2/"
+title: GSoc2021-DBpedia-NeuralExtraction
+url: "https://zoenantes.github.io/GSoc2021-DBpedia-NeuralExtraction/"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
