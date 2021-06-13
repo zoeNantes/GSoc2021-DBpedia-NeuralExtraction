@@ -2,10 +2,7 @@
 title: DBpedia Neural Extraction Framework
 ---
 
-# The introduction of this project
-
-## Project name
-``Towards a neural extraction framework``
+# Towards a neural extraction framework
 
 ## Project description
 ### Background
