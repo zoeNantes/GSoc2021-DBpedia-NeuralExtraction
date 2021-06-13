@@ -2,9 +2,8 @@
 title: DBpedia Neural Extraction Framework
 ---
 
-# Towards a neural extraction framework
+## Towards a neural extraction framework
 
-## Project description
 ### Background
 Every Wikipedia article links to a number of other articles. In DBpedia, we keep track of these links through the *dbo:wikiPageWikiLink* property. Thanks to them, we know that the [:Berlin_Wall](https://dbpedia.org/resource/Berlin_Wall) entity is semantically connected to 299 base entities. This project is funded by [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5166362588086272).
 ### Problem
