@@ -8,7 +8,7 @@ google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /images/siteicon.png
 description: The weekly blog for this project
 author:
   name: Ziwei XU
