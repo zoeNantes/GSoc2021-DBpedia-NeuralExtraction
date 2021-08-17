@@ -40,7 +40,7 @@ exclude:
 collections:
   docs:
     title: Documentation
-    permalink: /:path/
+    permalink: /:title/
     output: true
 
 defaults:
